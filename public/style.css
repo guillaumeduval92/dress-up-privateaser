@@ -1,0 +1,51 @@
+#bar {
+	font-size: 30px;
+	padding-top: 20px;
+    padding-left: 325px;
+    float:left;
+}
+
+#booker
+{
+	font-size: 30px;
+	padding-top: 20px;
+    padding-right: 325px;
+    float:right;
+ }
+
+ #compute
+{
+	background-color: WHITESMOKE;
+	color: black;
+	font-size: 30px;
+	margin-top: 300px;
+	margin-right: 30px;
+	border-radius: 200px;
+ }
+
+ h1
+{
+ 	font-size: 60px;
+  text-align: center;
+}
+
+ h2
+{
+ 	font-size: 30px;
+  text-align: center;
+}
+
+
+body
+{
+    background-color: AZURE;
+    color: black;
+}
+
+
+input 
+{
+padding:10px 5px 10px;
+border-radius:200px;
+background-color: WHITESMOKE;
+}
